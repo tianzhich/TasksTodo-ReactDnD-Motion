@@ -20,6 +20,6 @@ React DnD + React Motion 实现的一个待办任务列表
 
 2. 还有部分没实现的功能，例如一些CSS动画效果：Flipping card, 渐变等等
 
-3. 我是直接使用的React-dnd，动画使用了Motion，还有一个更好的库：react-beautiful-dnd，封装了motion实现动画效果
+3. 我是直接使用的React-dnd，动画使用了Motion，还有一个更好的库：react-beautiful-dnd，封装了motion实现动画效果
 
 4. 在此基础上可以实现todo list的filter功能，以及add，delete功能，以后有空再做
