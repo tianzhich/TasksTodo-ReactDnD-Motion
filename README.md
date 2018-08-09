@@ -18,8 +18,10 @@ React DnD + React Motion 实现的一个待办任务列表
 ## 备注
 1. 这次没有使用create-react-app脚手架，自己用npm把流程走了一遍
 
-2. 还有部分没实现的功能，例如一些CSS动画效果：Flipping card, 渐变等等
+2. 为了学习CSS模块化和SCSS语法，项目中都有使用。但是该项目较小，不如直接使用CSS来得方便，也无需模块化
 
-3. 我是直接使用的React-dnd，动画使用了Motion，还有一个更好的库：react-beautiful-dnd，封装了motion实现动画效果
+3. 还有部分没实现的功能，例如一些CSS动画效果：Flipping card, 渐变等等
 
-4. 在此基础上可以实现todo list的filter功能，以及add，delete功能，以后有空再做
+4. 我是直接使用的[react-dnd](https://github.com/react-dnd/react-dnd)，动画使用了react-motion(https://github.com/chenglou/react-motion)。后来发现还有一个更好的库：[react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)，封装了motion实现动画效果
+
+5. 在此基础上可以实现todo list的filter功能，以及add，delete功能，以后有空再做
